@@ -20,7 +20,7 @@ body:
     id: why-the-module
     attributes:
       label: Why is the module needed?
-      description: Explain why the module is needed. If there is a existing module, explain why it cannot be updated to meet your needs and why a new one must be created.
+      description: Explain why the module is needed. If there is an existing module, explain why it cannot be updated to meet your needs and why a new one must be created.
     validations:
       required: true
   - type: input
