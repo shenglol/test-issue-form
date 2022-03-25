@@ -12,8 +12,8 @@ body:
     attributes:
       label: Have you checked this module does not already exist in the registry?
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
       required: true
   - type: textarea
